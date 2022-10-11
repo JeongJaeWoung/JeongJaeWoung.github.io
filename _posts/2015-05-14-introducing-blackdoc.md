@@ -1,38 +1,17 @@
 ---
 layout: post
-title: Introducing BlackDoc
+title: Introduce
 ---
 
-BlackDoc is a two-column [Jekyll](http://jekyllrb.com) theme that's ideal for websites that require a master-detail layout for viewing of content. It's based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme.
+### myWay
 
-I needed a two-column layout with a scrolling sidebar to publish my [code cheatsheets](http://karloespiritu.com/cheatsheets), and found the [Hyde](http://hyde.getpoole.com) Jekyll theme to be a good starting theme. To complement the color scheme of my main [website](http://karloespiritu.com), I customised the theme to make it look great in black background and changed the sidebar to display scrolling content. I created this theme because I can't seem to find any good Jekyll theme with a master-detail layout. Hopefully, someone will find this useful as well in their own projects.
+한 가지 일에 흥미를 갖게 되면 반복되는 고민 끝에 경험해 보기로 결심합니다. 처음 저에게 흥미를 가져다준 텍스타일 디자인은 앞으로의 방향성을 알려주었고, 흥미로 생긴 호기심으로
+일본 유학까지 가게 되었습니다. 디자인 전공을 졸업한 후 한국으로 돌아와 미래에 대한 고민을 하게 될 무렵 자주 가던 식당과 카페의 계산 시스템은 키오스크로 전환되던 시점
+IT라는 전공에 호기심이라는 불씨가 생기기 시작하였습니다. 어릴 적부터 좋아하던 게임이라는 분야에 누구든지 '플레이어'가 되어 흥미를 갖게 해주는 게임을 개발하면 어떨까? 하는 생각이 한순간에 스치게 되었습니다.
+대학생 때 배운 전공이 장래의 직업과는 바뀌었지만, 저는 약점이라고 생각하지 않습니다.
+디자인적인 감각과 게임 개발에 필요한 능력들을 융합시켜 더욱 세련된 게임 개발자가 되도록 최선을 다할 것입니다.
 
-### Built on Poole
+### mySelf
 
-Poole is the Jekyll Butler, serving as a foundation for creating Jekyll themes. Poole-based themes, such as BlackDoc here, include the following:
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting using Pygments (the Python-based code snippet highlighter)
 
-### BlackDoc Features
-
-In addition to the features of [Poole](http://getpoole.com) and [Hyde](http://hyde.getpoole.com), BlackDoc theme adds the following:
-
-* Scrolling sidebar with a thin scrollbar to allow displaying of numerous top-level content.
-* Elements and classes of the Hyde theme were updated to look great in black background. Check out the [Theme Styles](styles) to see the stylings used in the theme.
-
-Check out the `Readme` of [Poole](https://github.com/poole/poole) and [Hyde](https://github.com/poole/hyde) theme to learn more about the features.
-
-### Browser support
-
-BlackDoc theme supports most modern browsers and only compatible with Internet Explorer 9 and above.
-
-### Download
-
-BlackDoc is a free Jekyll theme and hosted with GitHub. Head to the <a href="https://github.com/karloespiritu/BlackDoc">GitHub repository</a> to download.
-
-Cheers!
