@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Jaewoung's Portfolio
 tagline:          정재웅 포트폴리오
-description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
+description:      "작고 사소하더라도 신중하게 해결해나가는 게임 개발자가 되겠습니다"
 url:              https://github.com/karloespiritu/blackdoc
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
